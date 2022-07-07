@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SevanIM (Sevan Shahnazaryan)
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Git
+- 👀 I’m a Software Developer
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Instigate Mobile
 - 📫 How to reach me sevan.shahnazaryan.im@gmail.com
 
