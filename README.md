@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SevanIM (Sevan Shahnazaryan)
 - 👀 I’m a Software Developer
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently searching a job.
 - 📫 How to reach me sevanbbx@gmail.com
 
 <!---
