@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SevanIM (Sevan Shahnazaryan)
 - 👀 I’m a Software Developer
-- 🌱 I’m currently searching a job.
+- 🌱 I’m currently looking for a job.
 - 📫 How to reach me sevanbbx@gmail.com
 
 <!---
